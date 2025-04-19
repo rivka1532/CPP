@@ -1,0 +1,6 @@
+﻿  lesson2.cpp
+D:\C++\h.w\lesson2\lesson2\lesson2.cpp(25,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\C++\h.w\lesson2\lesson2\lesson2.cpp(25,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\C++\h.w\lesson2\lesson2\lesson2.cpp(38,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\C++\h.w\lesson2\lesson2\lesson2.cpp(38,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  lesson2.vcxproj -> D:\C++\h.w\lesson2\x64\Debug\lesson2.exe
